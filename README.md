@@ -6,5 +6,7 @@ Liste over ressurser
 https://sikkerhet.nav.no/
 
 
-Azure sertifiseringer
+## Sertifiseringer
+
+### Azure
 https://esi.microsoft.com/getcertification
