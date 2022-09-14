@@ -1,2 +1,4 @@
 # Gode-sikkerhetsressurser
-For intressenter 
+Liste over ressurser 
+
+https://sikkerhet.nav.no/
