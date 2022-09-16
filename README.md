@@ -26,3 +26,6 @@ https://esi.microsoft.com/getcertification
 # Compliance verktøy 
 
 # Andre Sikkerhets awesoms
+
+# Arkitektur 
+https://www.ipc.on.ca/wp-content/uploads/resources/7foundationalprinciples.pdf 
