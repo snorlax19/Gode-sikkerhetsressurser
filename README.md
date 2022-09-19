@@ -3,7 +3,7 @@ Liste over ressurser
 
 
 ## Security champion playbooks
-  https://sikkerhet.nav.no/
+https://sikkerhet.nav.no/  
 
 
 ## Sertifiseringer
@@ -15,13 +15,13 @@ Liste over ressurser
   https://docs.evolveum.com/book/practical-identity-management-with-midpoint.pdf
 
 ## Oauth 2.0 
-  https://www.udemy.com/course/oauth-2-simplified/
+  https://www.udemy.com/course/oauth-2-simplified/  
   https://www.rfc-editor.org/rfc/rfc6749
 
 # Sikker utvikling/DevSecOps
 
 ## Trusselmodellering
-https://www.linddun.org/ 
+https://www.linddun.org/  
 https://versprite.com/blog/what-is-pasta-threat-modeling/
 
 ## DAST
