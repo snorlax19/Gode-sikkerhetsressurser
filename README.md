@@ -13,7 +13,7 @@ https://esi.microsoft.com/getcertification
 
 #Identitet 
 
-##Oauth 2.0 
+## Oauth 2.0 
 
 # DevSecOps
 
@@ -29,3 +29,4 @@ https://esi.microsoft.com/getcertification
 
 # Arkitektur 
 https://www.ipc.on.ca/wp-content/uploads/resources/7foundationalprinciples.pdf 
+https://www.opensecurityarchitecture.org/cms/library/patternlandscape
