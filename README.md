@@ -35,12 +35,12 @@ https://versprite.com/blog/what-is-pasta-threat-modeling/
 # Nyhetskilder
 
 # Compliance verktøy 
-  https://www.cisecurity.org/controls/v8
+  https://www.cisecurity.org/controls/v8  
   https://www.auditscripts.com/free-resources/5-crucial-questions/
 
 # Arkitektur 
-  https://www.ipc.on.ca/wp-content/uploads/resources/7foundationalprinciples.pdf 
-  https://www.opensecurityarchitecture.org/cms/library/patternlandscape
+  https://www.ipc.on.ca/wp-content/uploads/resources/7foundationalprinciples.pdf  
+  https://www.opensecurityarchitecture.org/cms/library/patternlandscape  
 
 # Andre Sikkerhets awesomses
   https://github.com/sbilly/awesome-security
