@@ -12,8 +12,11 @@ https://sikkerhet.nav.no/
 https://esi.microsoft.com/getcertification
 
 # Identitet 
+https://docs.evolveum.com/book/practical-identity-management-with-midpoint.pdf
 
 ## Oauth 2.0 
+https://www.udemy.com/course/oauth-2-simplified/
+https://www.rfc-editor.org/rfc/rfc6749
 
 # Sikker utvikling/DevSecOps
 
