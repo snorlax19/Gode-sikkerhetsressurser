@@ -11,22 +11,34 @@ https://sikkerhet.nav.no/
 ### Azure
 https://esi.microsoft.com/getcertification
 
-#Identitet 
+# Identitet 
 
 ## Oauth 2.0 
 
-# DevSecOps
+# Sikker utvikling/DevSecOps
 
 ## Trusselmodellering
+https://www.linddun.org/ 
+https://versprite.com/blog/what-is-pasta-threat-modeling/
 
-## Automatisering av sikkerhet 
+## DAST
+
+## SAST
+
+## DevSecOps
+
+## S-SDLC
 
 # Nyhetskilder
 
 # Compliance verktøy 
-
-# Andre Sikkerhets awesoms
+https://www.cisecurity.org/controls/v8
+https://www.auditscripts.com/free-resources/5-crucial-questions/
 
 # Arkitektur 
 https://www.ipc.on.ca/wp-content/uploads/resources/7foundationalprinciples.pdf 
 https://www.opensecurityarchitecture.org/cms/library/patternlandscape
+
+# Andre Sikkerhets awesomses
+https://github.com/sbilly/awesome-security
+
