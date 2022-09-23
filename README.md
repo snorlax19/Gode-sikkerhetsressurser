@@ -6,10 +6,15 @@ Liste over ressurser
 https://sikkerhet.nav.no/  
 
 
+# Labber 
+https://developer.microsoft.com/en-us/microsoft-365/dev-program  
+https://visualstudio.microsoft.com/subscriptions/  
+
 ## Sertifiseringer
 
 ### Azure
   https://esi.microsoft.com/getcertification
+
 
 # Identitet 
   https://docs.evolveum.com/book/practical-identity-management-with-midpoint.pdf
