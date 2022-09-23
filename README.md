@@ -10,11 +10,13 @@ https://sikkerhet.nav.no/
 https://developer.microsoft.com/en-us/microsoft-365/dev-program  
 https://visualstudio.microsoft.com/subscriptions/  
 
-## Sertifiseringer
+# Sertifiseringer
 
-### Azure
+## Azure
   https://esi.microsoft.com/getcertification
 
+## GCP
+  https://www.pluralsight.com/authors/google-cloud  
 
 # Identitet 
   https://docs.evolveum.com/book/practical-identity-management-with-midpoint.pdf
