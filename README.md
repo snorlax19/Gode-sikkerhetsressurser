@@ -36,6 +36,7 @@ https://versprite.com/blog/what-is-pasta-threat-modeling/
 ## SAST
 
 ## DevSecOps
+https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF?utm_source=thenewstack&utm_medium=website&utm_content=inline-mention&utm_campaign=platform   
 
 ## S-SDLC
 
@@ -44,6 +45,9 @@ https://versprite.com/blog/what-is-pasta-threat-modeling/
 # Compliance verktøy 
   https://www.cisecurity.org/controls/v8  
   https://www.auditscripts.com/free-resources/5-crucial-questions/
+  
+# Sjekklister 
+Sjekkliste for infrastruktur pen-test - https://media-exp1.licdn.com/dms/document/D561FAQFylLwMNQG-aw/feedshare-document-pdf-analyzed/0/1664300586492?e=1665014400&v=beta&t=IbqamGmHQ1YQQgUR2KWiPaquV5DO39WWuIz2aBUDOEI 
 
 # Arkitektur 
   https://www.ipc.on.ca/wp-content/uploads/resources/7foundationalprinciples.pdf  
