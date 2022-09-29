@@ -43,7 +43,7 @@ Liste over ressurser
 * https://www.auditscripts.com/free-resources/5-crucial-questions/
   
 # Sjekklister 
-Sjekkliste for infrastruktur pen-test - https://media-exp1.licdn.com/dms/document/D561FAQFylLwMNQG-aw/feedshare-document-pdf-analyzed/0/1664300586492?e=1665014400&v=beta&t=IbqamGmHQ1YQQgUR2KWiPaquV5DO39WWuIz2aBUDOEI 
+* Sjekkliste for infrastruktur pen-test - https://media-exp1.licdn.com/dms/document/D561FAQFylLwMNQG-aw/feedshare-document-pdf-analyzed/0/1664300586492?e=1665014400&v=beta&t=IbqamGmHQ1YQQgUR2KWiPaquV5DO39WWuIz2aBUDOEI 
 
 # Arkitektur 
 * https://www.ipc.on.ca/wp-content/uploads/resources/7foundationalprinciples.pdf  
