@@ -51,7 +51,7 @@ Sjekkliste for infrastruktur pen-test - https://media-exp1.licdn.com/dms/documen
 
 # Arkitektur 
   https://www.ipc.on.ca/wp-content/uploads/resources/7foundationalprinciples.pdf  
-  https://www.opensecurityarchitecture.org/cms/library/patternlandscape
+  https://www.opensecurityarchitecture.org/cms/library/patternlandscape  
   Security Patterns - https://securitypatterns.io/security-patterns/ 
 
 # Andre Sikkerhets awesomses
