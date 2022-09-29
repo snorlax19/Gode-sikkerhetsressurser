@@ -7,8 +7,8 @@ Liste over ressurser
 
 
 # Labber 
-https://developer.microsoft.com/en-us/microsoft-365/dev-program  
-https://visualstudio.microsoft.com/subscriptions/  
+* https://developer.microsoft.com/en-us/microsoft-365/dev-program
+* https://visualstudio.microsoft.com/subscriptions/  
 
 # Sertifiseringer
 
@@ -35,12 +35,8 @@ https://visualstudio.microsoft.com/subscriptions/
 
 ## SAST
 
-## DevSecOps
+## DevSecOps/S-SDLC
 * https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF?utm_source=thenewstack&utm_medium=website&utm_content=inline-mention&utm_campaign=platform   
-
-## S-SDLC
-
-# Nyhetskilder
 
 # Compliance verktøy 
 * https://www.cisecurity.org/controls/v8  
@@ -56,4 +52,6 @@ Sjekkliste for infrastruktur pen-test - https://media-exp1.licdn.com/dms/documen
 
 # Andre Sikkerhets awesomses
 * https://github.com/sbilly/awesome-security
+
+# Nyhetskilder
 
