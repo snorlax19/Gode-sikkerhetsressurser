@@ -38,6 +38,8 @@ Liste over ressurser
 ## DevSecOps/S-SDLC
 * https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF?utm_source=thenewstack&utm_medium=website&utm_content=inline-mention&utm_campaign=platform   
 * SLSA er er måte å få kontroll på verdikjede og spesielt mtp. kode- https://slsa.dev/ 
+* Dokumentasjon på hvor man rapporterer inn sikkerhetsbugs
+*- Security.MD 
 
 # Compliance verktøy 
 * https://www.cisecurity.org/controls/v8  
