@@ -40,6 +40,7 @@ Liste over ressurser
 * SLSA er er måte å få kontroll på verdikjede og spesielt mtp. kode- https://slsa.dev/ 
 * Dokumentasjon på hvor man rapporterer inn sikkerhetsbugs
 *- Security.MD 
+* Oversikt over verifikasjonstester for å herde et system - https://sansorg.egnyte.com/dl/M3JW2iZxw6 
 
 # Compliance verktøy 
 * https://www.cisecurity.org/controls/v8  
